@@ -1,8 +1,8 @@
 ## Design  And Analysis of Algorithms
 ## Languages Used 
-+C
--Cpp
-*Python
+C
+Cpp
+Python
 ## Table of content
 week_0
 week_1
